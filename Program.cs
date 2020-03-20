@@ -9,9 +9,9 @@ namespace Taxi
 
             Taxi taxi = new Taxi();
 
-            taxi.DriverName = "Jono";
+            taxi.DriverName = "Hafit";
             taxi.OnDuty = true;
-            taxi.NumPassenger = 10;
+            taxi.NumPassenger = 13;
 
 
             taxi.TaxiInfo();
